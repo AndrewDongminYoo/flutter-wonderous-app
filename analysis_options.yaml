@@ -24,7 +24,9 @@ linter:
   rules:
     always_declare_return_types: true
     always_use_package_imports: true
+    curly_braces_in_flow_control_structures: false
     prefer_const_constructors: false
     prefer_single_quotes: true
+    lines_longer_than_80_chars: false
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
