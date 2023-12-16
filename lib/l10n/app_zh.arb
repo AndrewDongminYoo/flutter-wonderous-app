@@ -1,4 +1,6 @@
 {
+	"@@locale": "zh",
+	"@@context": "Wonderous",
     "appName": "Wonderous",
 	"localeSwapButton": "English",
 	"animatedArrowSemanticSwipe": "查看关于{title}的详细信息。",

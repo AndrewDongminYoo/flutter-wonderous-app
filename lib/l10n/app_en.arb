@@ -1,6 +1,8 @@
 {
+	"@@locale": "en",
+	"@@context": "Wonderous",
     "appName": "Wonderous",
-	"localeSwapButton": "简体中文",
+	"localeSwapButton": "한국어",
 	"animatedArrowSemanticSwipe": "Explore details about {title}.",
 	"@animatedArrowSemanticSwipe": {"placeholders": {"title": {}}},
 	"appBarTitleFactsHistory": "Facts and History",

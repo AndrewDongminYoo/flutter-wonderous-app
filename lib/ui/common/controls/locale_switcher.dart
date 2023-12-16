@@ -7,7 +7,14 @@ class LocaleSwitcher extends StatelessWidget with GetItMixin {
   Widget build(BuildContext context) {
     final locale = watchX((SettingsLogic s) => s.currentLocale);
     Future<void> handleSwapLocale() async {
-      final newLocale = Locale(locale == 'en' ? 'zh' : 'en');
+      final Locale newLocale;
+      if (locale == 'en') {
+        newLocale = Locale('ko');
+      } else if (locale == 'ko') {
+        newLocale = Locale('zh');
+      } else {
+        newLocale = Locale('en');
+      }
       await settingsLogic.changeLocale(newLocale);
     }
 

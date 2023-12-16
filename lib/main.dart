@@ -1,5 +1,4 @@
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:wonders/common_libs.dart';
 import 'package:wonders/logic/artifact_api_logic.dart';
@@ -39,12 +38,7 @@ class WondersApp extends StatelessWidget with GetItMixin {
       routerDelegate: appRouter.routerDelegate,
       shortcuts: AppShortcuts.defaults,
       theme: ThemeData(fontFamily: $styles.text.body.fontFamily, useMaterial3: true),
-      localizationsDelegates: const [
-        AppLocalizations.delegate,
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-        GlobalCupertinoLocalizations.delegate,
-      ],
+      localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
     );
   }

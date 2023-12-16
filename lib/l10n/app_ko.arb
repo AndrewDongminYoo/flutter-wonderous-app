@@ -3,7 +3,7 @@
     "@@author": "AndrewDongminYoo",
     "@@context": "Wonderous",
     "appName": "Wonderous",
-	"localeSwapButton": "English",
+	"localeSwapButton": "简体中文",
 	"animatedArrowSemanticSwipe": "{title}에 대한 자세한 내용을 살펴보세요.",
 	"@animatedArrowSemanticSwipe": {"placeholders": {"title": {}}},
 	"appBarTitleFactsHistory": "사실과 역사",
