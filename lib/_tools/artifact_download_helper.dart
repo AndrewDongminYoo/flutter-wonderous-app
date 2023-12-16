@@ -65,7 +65,7 @@ class _ArtifactDownloadHelperState extends State<ArtifactDownloadHelper> {
       }
     }
 
-    /// Download Highights
+    /// Download Highlights
     for (var h in HighlightData.all) {
       if (await downloadImageAndJson(h.artifactId) == false) {
         missingIds.add(h.artifactId);
