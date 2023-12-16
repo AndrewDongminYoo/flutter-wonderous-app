@@ -1,10 +1,10 @@
 name: wonders
 description: Explore the famous wonders of the world.
-publish_to: "none"
+publish_to: none
 version: 2.0.19+8
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: '>=2.17.0 <3.0.0'
 
 dependencies:
   flutter:
@@ -58,12 +58,12 @@ dev_dependencies:
   dependency_validator: ^3.2.2
 
 icons_launcher:
-  image_path: "assets/marketing/app-icon-1024.png"
+  image_path: assets/marketing/app-icon-1024.png
   platforms:
     web:
       enable: true
-      image_path: "assets/marketing/app-icon-512.png"
-      favicon_path: "assets/marketing/app-icon-512.png"
+      image_path: assets/marketing/app-icon-512.png
+      favicon_path: assets/marketing/app-icon-512.png
     android:
       enable: true
     ios:
@@ -74,7 +74,7 @@ icons_launcher:
 flutter_icons:
   ios: true
   android: true
-  image_path: "assets/marketing/app-icon-1024.png"
+  image_path: assets/marketing/app-icon-1024.png
 
 flutter:
   uses-material-design: true
