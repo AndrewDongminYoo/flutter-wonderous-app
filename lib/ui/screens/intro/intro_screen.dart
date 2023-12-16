@@ -113,7 +113,6 @@ class _IntroScreenState extends State<IntroScreen> {
                   ),
 
                   IgnorePointer(
-                    ignoringSemantics: false,
                     child: Column(children: [
                       Spacer(),
 

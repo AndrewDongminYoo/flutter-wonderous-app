@@ -14,6 +14,8 @@ class _YearMarkers extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return IgnorePointer(
+      /// {@macro flutter.widgets.IgnorePointer.semantics}
+      // ignore: deprecated_member_use
       ignoringSemantics: false,
       child: LayoutBuilder(builder: (_, constraints) {
         int interval = 100;

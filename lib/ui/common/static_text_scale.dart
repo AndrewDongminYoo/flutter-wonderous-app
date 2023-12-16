@@ -7,8 +7,9 @@ class StaticTextScale extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final textScaler = TextScaler.linear(scale);
     return MediaQuery(
-      data: MediaQuery.of(context).copyWith(textScaleFactor: scale),
+      data: MediaQuery.of(context).copyWith(textScaler: textScaler),
       child: child,
     );
   }

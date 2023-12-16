@@ -1,4 +1,15 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive",
-    "dart.lineLength": 120
+  "cSpell.words": [
+    "Anims",
+    "debouncer",
+    "Debouncer",
+    "gskinner",
+    "Gskinner",
+    "Itza",
+    "machu",
+    "Picchu",
+    "Wonderous"
+  ],
+  "dart.lineLength": 120,
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
