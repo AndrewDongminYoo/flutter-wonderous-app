@@ -1,9 +1,11 @@
 import 'dart:async';
 import 'dart:ui';
 
-import 'package:desktop_window/desktop_window.dart';
 import 'package:flutter/foundation.dart';
+
+import 'package:desktop_window/desktop_window.dart';
 import 'package:flutter_displaymode/flutter_displaymode.dart';
+
 import 'package:wonders/common_libs.dart';
 import 'package:wonders/logic/common/platform_info.dart';
 import 'package:wonders/ui/common/modals/fullscreen_video_viewer.dart';

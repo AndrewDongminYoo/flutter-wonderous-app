@@ -1,10 +1,12 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/foundation.dart';
+
 import 'package:pointer_interceptor/pointer_interceptor.dart';
+import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+
 import 'package:wonders/common_libs.dart';
 import 'package:wonders/logic/common/platform_info.dart';
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
 
 class FullscreenVideoViewer extends StatefulWidget {
   const FullscreenVideoViewer({super.key, required this.id});

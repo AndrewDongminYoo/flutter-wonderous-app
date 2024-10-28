@@ -1,4 +1,5 @@
 import 'package:home_widget/home_widget.dart';
+
 import 'package:wonders/logic/common/platform_info.dart';
 
 /// Small facade for the HomeWidget package

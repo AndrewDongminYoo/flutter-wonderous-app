@@ -1,7 +1,9 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
+
 import 'package:internet_connection_checker/internet_connection_checker.dart';
+
 import 'package:wonders/common_libs.dart';
 
 class PlatformInfo {

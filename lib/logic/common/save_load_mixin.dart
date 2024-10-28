@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart';
+
 import 'package:wonders/logic/common/json_prefs_file.dart';
 import 'package:wonders/logic/common/throttler.dart';
 
