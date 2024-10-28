@@ -2,7 +2,7 @@ import WidgetKit
 import SwiftUI
 import Intents
 
-/// Every home-widget requires a TimelineEntry. This is passed into the view and propvides any data it needs
+/// Every home-widget requires a TimelineEntry. This is passed into the view and provides any data it needs
 struct WonderousTimelineEntry : TimelineEntry {
     // Date is a mandatory field for all TimelineEntries
     let date: Date
@@ -29,7 +29,7 @@ struct WonderousWidget: Widget {
 
 struct WonderousConfig {
     let iosKey = "group.com.gskinner.flutter.wonders.widget"
-    let discoveredCountKey = "dicoveredCount"
+    let discoveredCountKey = "discoveredCount"
 }
 
 /// TimelineProvider, returns various WonderousTimelineEntry configurations for different contexts

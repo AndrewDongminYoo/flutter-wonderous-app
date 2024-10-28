@@ -82,13 +82,13 @@ tajMahal
     <script>
       let wonders, wonderIndex, artifactIndex;
       function run() {
-        let wonderStrs = input.value.split("\n\n");
+        let wonderStrings = input.value.split("\n\n");
         wonders = [];
-        for (let i = 0; i < wonderStrs.length; i++) {
+        for (let i = 0; i < wonderStrings.length; i++) {
           let o = (wonders[i] = {});
-          let lineStrs = wonderStrs[i].split("\n");
-          parseInfo(lineStrs[0], o);
-          parseArtifacts(lineStrs.slice(1), o);
+          let lineStrings = wonderStrings[i].split("\n");
+          parseInfo(lineStrings[0], o);
+          parseArtifacts(lineStrings.slice(1), o);
         }
         wonderIndex = artifactIndex = 0;
         loadNext();
@@ -102,10 +102,10 @@ tajMahal
         o.type = values[0].trim();
       }
 
-      function parseArtifacts(strs, o) {
+      function parseArtifacts(strings, o) {
         let artifacts = [];
-        for (let i = 0; i < strs.length; i++) {
-          artifacts.push({ id: strs[i].replace(",", "") });
+        for (let i = 0; i < strings.length; i++) {
+          artifacts.push({ id: strings[i].replace(",", "") });
         }
         o.artifacts = artifacts;
       }

@@ -35,10 +35,13 @@ Anims
 ankhhor
 Ankhwadjes
 Ankhwennefer
+Annibaldi
 Anra
 Anthropomorph
 antoninianus
+Aparecida
 Apries
+Aretas
 Arsinoe
 arthenware
 aryballos
@@ -49,7 +52,9 @@ Asha
 Ashraf
 Ashtamahabhaya
 Ashtasahasrika
+Ăşpac
 atef
+Aurea
 aurei
 AUTs
 Avalokiteshvara
@@ -84,6 +89,7 @@ Boscotrecase
 BPNJ
 Bucranium
 Bunduqdar
+Burckhardt
 Burji
 Camelid
 Canopa
@@ -93,12 +99,17 @@ Caracasha
 carchesium
 carinated
 cartonnage
+cenote
+Cenote
+cenotes
+Chaac
 Chahk
 Chakra
 Chakrasamvara
 champlevÃ©
 Chamunda
 Chaupar
+Chenes
 Chichen
 chiguo
 Chlorus
@@ -146,6 +157,7 @@ djed
 Djedhor
 Djedkhonsuefankh
 Djoser
+Domus
 Dongfang
 Dqgh
 drawnwork
@@ -188,6 +200,7 @@ Gauri
 gavius
 Gennadios
 Ghanti
+Gheorghe
 Gigy
 Gita
 Gopis
@@ -219,9 +232,11 @@ Hennutsen
 Herdboy
 hermarchos
 herms
+Hetepheres
 Highights
 Hiranyaksha
 Hodegetria
+Hongzhi
 Horakhty
 hslc
 huanghuali
@@ -248,6 +263,7 @@ ishÅ�
 Itet
 Ivwyqtw
 IYKL
+Jabal
 jackwood
 Jahan
 Jali
@@ -288,6 +304,7 @@ Khafre
 Khamsa
 Khanjar
 Khasekhemwy
+Khazneh
 Khet
 khnum
 Khnumnakht
@@ -296,6 +313,7 @@ Khusrau
 Kinnari
 Kinnaris
 Kubera
+Kukulc
 Kumaragupta
 Kumbhakarna
 Kundala
@@ -304,12 +322,14 @@ kuttrolf
 KVLV
 kxugiv
 kyathos
+labourorâ
 Laila
 Lajja
 Lakshmana
 lhola
 Lian
 Limetanus
+Limhamn
 Linga
 lingbi
 Lingodbhavamurti
@@ -333,6 +353,7 @@ Mahadevi
 Mahal
 Maharana
 Mahisha
+Mainique
 Majnun
 makara
 Malik
@@ -371,14 +392,19 @@ Mmoafl
 mnmr
 Moche
 modeland
+Montejo
 Montu
 Montuemhat
+Monumento
 Moonold
 mortarium
 Multifigure
 Multistoried
+Mumtaz
 Mutirdis
 Muzaffar
+Nabataeans
+Nabataens
 Nagaraja
 Nagini
 Nagphani
@@ -392,6 +418,7 @@ Nasta
 Nasta\'liq
 Nataraja
 naviform
+NCCREATE
 Nebethetepet
 Nebhepetre
 nebmaatre
@@ -419,11 +446,14 @@ Omjmg
 omnp
 omphacite
 Orichalcum
+Osario
 oscillum
 Osiride
 oxhorn
 pabasa
 Paccha
+Pachacutec
+Pachacuti
 Palampore
 palombino
 paragonite
@@ -446,6 +476,8 @@ phyllite
 Pichhwai
 plrww
 Pluriarc
+Pokhrel
+Pongo
 porcelaneous
 Prajnaparamita
 Prakaravapra
@@ -456,6 +488,7 @@ protesilaos
 protome
 Psamtik
 Pudica
+Puuc
 pyrum
 Qaitbay
 Qanat
@@ -466,6 +499,7 @@ Qilin
 QKPs
 Qvxpb
 Qxxar
+Rabindranath
 Radha
 Ragamala
 Ragini
@@ -487,7 +521,9 @@ rippenschale
 ruyi
 Sabaean
 Sabu
+sacbeob
 Saef
+Sagrado
 Sahure
 Saif
 Sambandar
@@ -551,6 +587,7 @@ strigils
 Subhat
 Sufu
 Sugriva
+Suman
 Surasundari
 Svetambara
 Swipeable
@@ -573,6 +610,7 @@ Thrax
 thueris
 Tian
 tianwang
+Tijuca
 Tikshna
 Timeframe
 timerange
@@ -589,6 +627,7 @@ Trayastrimsha
 Trebonianus
 Tripuravijaya
 ttipqui
+Tujue
 tulum
 Tumi
 tunjo
@@ -611,8 +650,10 @@ Umamaheshvara
 Umar
 Unguentarium
 Urpu
+Urubamba
 Userhat
 Ushabti
+Uttar
 VÄ«á¹‡a
 Vaikuntha
 Vairocana
@@ -626,6 +667,7 @@ Verus
 VFRTX
 Vgjb
 Vilaval
+Vilcabamba
 Vishvamitra
 Vishvarupa
 Vnesg
@@ -654,6 +696,8 @@ Yashoda
 Yazdegird
 Yazdigird
 Yeseva
+Yucat
+Yupanqui
 Yusuf
 Yyxdcyr
 Zafar
@@ -665,5 +709,6 @@ zhmpjgr
 Zhong
 zitan
 ziziphus
+ZMQPW
 ZRLX
 Zysw
