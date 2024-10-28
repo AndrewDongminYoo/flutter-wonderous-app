@@ -1,6 +1,6 @@
 part of '../artifact_search_screen.dart';
 
-/// Autopopulating textfield used for searching for Artifacts by name.
+/// Auto-populating textfield used for searching for Artifacts by name.
 class _SearchInput extends StatelessWidget {
   const _SearchInput({super.key, required this.onSubmit, required this.wonder});
   final void Function(String) onSubmit;

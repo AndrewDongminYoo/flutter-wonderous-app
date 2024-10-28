@@ -1,3 +1,5 @@
+'liq
+'s
 # Custom Dictionary Words
 Abrar
 abumeh
@@ -199,6 +201,7 @@ Guman
 Gumuri
 gunibri
 gwra
+Habb
 HabbÄ�n
 Hacha
 handscroll
@@ -267,6 +270,7 @@ kagami
 Kaipunesut
 Kalpasutra
 KamÄ�nja
+Kamsaâ
 Kamsaâ€™s
 Kangxi
 kantharos
@@ -379,10 +383,12 @@ Nagaraja
 Nagini
 Nagphani
 Nala
+Naqq
 Naqqareh
 NaqqÄ�ra
 Narasimha
 Narayana
+Nasta
 Nasta\'liq
 Nataraja
 naviform
@@ -470,6 +476,7 @@ Raleway
 Raneb
 Rasamanjari
 Rasulid
+Ravana
 Ravana\'s
 Rebab
 Reshef
@@ -588,6 +595,7 @@ tunjo
 Tupu
 Turani
 turbinella
+Turh
 TurhÄ�
 Tutankhamun
 Tutankhamun\'s
@@ -636,6 +644,7 @@ Xiangru
 Xizhi
 Xnis
 Xopw
+Xuanzong
 Xuanzong\'s
 Yahudiya
 Yaksha

@@ -89,7 +89,7 @@ class _EventsListState extends State<_EventsList> {
         if (widget.showTopGradient)
           Positioned.fill(
             child: TopCenter(
-              child: ListOverscollGradient(size: 100),
+              child: ListOverscrollGradient(size: 100),
             ),
           ),
       ],

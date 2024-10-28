@@ -8,7 +8,7 @@ class _BottomScrubber extends StatelessWidget {
   final double size;
   final WonderType? selectedWonder;
 
-  /// Calculate what fraction the scroller has travelled
+  /// Calculate what fraction the scroller has traveled
   double _calculateScrollFraction(ScrollPosition? pos) {
     if (pos == null || pos.maxScrollExtent == 0) return 0;
     return pos.pixels / pos.maxScrollExtent;

@@ -82,7 +82,7 @@ class _WonderImageWithTimeline extends StatelessWidget {
           /// Vertical gradient on btm
           Positioned.fill(
             child: BottomCenter(
-              child: ListOverscollGradient(bottomUp: true, size: 200),
+              child: ListOverscrollGradient(bottomUp: true, size: 200),
             ),
           )
         ],

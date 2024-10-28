@@ -41,6 +41,7 @@ class AppLogic {
 
     if (kIsWeb) {
       // SB: This is intentionally not a debugPrint, as it's a message for users who open the console on web.
+      // ignore: avoid_print
       print(
         '''Thanks for checking out Wonderous on the web!
         If you encounter any issues please report them at https://github.com/gskinnerTeam/flutter-wonderous-app/issues.''',
@@ -73,7 +74,7 @@ class AppLogic {
     collectiblesLogic.init();
     await collectiblesLogic.load();
 
-    // Wait at least 1 frame to give GoRouter time to catch the initial deeplink
+    // Wait at least 1 frame to give GoRouter time to catch the initial DeepLink
     await Future.delayed(1.milliseconds);
 
     // Flag bootStrap as complete
@@ -84,7 +85,7 @@ class AppLogic {
     if (showIntro) {
       appRouter.go(ScreenPaths.intro);
     } else {
-      appRouter.go(initialDeeplink ?? ScreenPaths.home);
+      appRouter.go(initialDeepLink ?? ScreenPaths.home);
     }
   }
 

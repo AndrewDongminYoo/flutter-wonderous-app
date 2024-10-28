@@ -151,9 +151,9 @@ class _ScalingViewportState extends State<_ScrollingViewport> {
             ),
 
             /// Top and bottom gradients for visual style
-            ListOverscollGradient(),
+            ListOverscrollGradient(),
             BottomCenter(
-              child: ListOverscollGradient(bottomUp: true),
+              child: ListOverscrollGradient(bottomUp: true),
             ),
 
             /// Event Popups, rebuilds when [_currentEventMarker] changes

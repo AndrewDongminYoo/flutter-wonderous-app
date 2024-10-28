@@ -147,14 +147,14 @@ class AppRoute extends GoRoute {
   final bool useFade;
 }
 
-String? get initialDeeplink => _initialDeeplink;
-String? _initialDeeplink;
+String? get initialDeepLink => _initialDeepLink;
+String? _initialDeepLink;
 
 String? _handleRedirect(BuildContext context, GoRouterState state) {
   // Prevent anyone from navigating away from `/` if app is starting up.
   if (!appLogic.isBootstrapComplete && state.uri.path != ScreenPaths.splash) {
     debugPrint('Redirecting from ${state.uri.path} to ${ScreenPaths.splash}.');
-    _initialDeeplink ??= state.uri.toString();
+    _initialDeepLink ??= state.uri.toString();
     return ScreenPaths.splash;
   }
   if (appLogic.isBootstrapComplete && state.uri.path == ScreenPaths.splash) {
