@@ -88,7 +88,7 @@ class _FullscreenUrlImgViewerState extends State<FullscreenUrlImgViewer> {
           children: [
             Positioned.fill(child: content),
             AppHeader(onBack: _handleBackPressed, isTransparent: true),
-            // Show next/previous btns if there are more than one image
+            // Show next/previous buttons if there are more than one image
             if (widget.urls.length > 1) ...{
               BottomCenter(
                 child: Padding(

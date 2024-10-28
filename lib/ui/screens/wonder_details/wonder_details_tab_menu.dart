@@ -30,11 +30,11 @@ class WonderDetailsTabMenu extends StatelessWidget {
     final availableSize = ((isVertical ? context.heightPx : context.widthPx) - homeBtnSize - $styles.insets.md);
     // Calculate tabBtnSize based on availableSize
     final double tabBtnSize = (availableSize / 4).clamp(minTabSize, maxTabSize);
-    // Figure out some extra gap, in the case that the tabBtns are wider than the homeBtn
+    // Figure out some extra gap, in the case that the tabButtons are wider than the homeBtn
     final double gapAmt = max(0, tabBtnSize - homeBtnSize);
     // Store off safe areas which we will need to respect in the layout below
     final double safeAreaBtm = context.mq.padding.bottom, safeAreaTop = context.mq.padding.top;
-    // Insets the bg from the rounded wonder icon making it appear offset. The tab btns will use the same padding.
+    // Insets the bg from the rounded wonder icon making it appear offset. The tab buttons will use the same padding.
     final buttonInsetPadding = isVertical ? EdgeInsets.only(right: buttonInset) : EdgeInsets.only(top: buttonInset);
     return Padding(
       padding: isVertical ? EdgeInsets.only(top: safeAreaTop) : EdgeInsets.zero,

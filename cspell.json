@@ -1,6 +1,17 @@
 {
   "version": "0.2",
-  "ignorePaths": [],
+  "ignorePaths": [
+    "android",
+    "ios",
+    "macos",
+    "windows",
+    "lib/l10n",
+    ".cspell",
+    ".github",
+    ".gitignore",
+    ".metadata",
+    ".trunk"
+  ],
   "dictionaryDefinitions": [
     {
       "name": "custom-dictionary",
@@ -10,13 +21,15 @@
   ],
   "dictionaries": ["custom-dictionary"],
   "words": [
-    "Btns",
+    "debouncer",
+    "Devananda",
+    "displaymode",
+    "evenodd",
     "flextras",
     "gskinner",
-    "Itza",
-    "machu",
-    "Picchu",
-    "wonderous",
+    "terracottas",
+    "unfretted",
+    "Uninscribed",
     "Wonderous"
   ],
   "ignoreWords": [],

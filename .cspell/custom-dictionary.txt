@@ -8,6 +8,7 @@ Aedicula
 afdi
 Afrasiyab
 Agathodaimon
+agūz
 Ahmose
 aina
 Ainar
@@ -28,6 +29,7 @@ Amun
 Anadyomene
 Ananda
 Anantuo
+Anbān
 AnbÄ�n
 Angada
 anhua
@@ -107,6 +109,7 @@ Chahk
 Chakra
 Chakrasamvara
 champlevÃ©
+champlevé
 Chamunda
 Chaupar
 Chenes
@@ -145,8 +148,11 @@ dehua
 Demedji
 Devananda\'s
 DFUI
+dgph
 DhÃ l
 DhÃ¡l
+Dhál
+Dhàl
 dharmacakrastambha
 Diadoumenos
 Digambara
@@ -178,6 +184,7 @@ entrablature
 Erddu
 erotes
 escallonia
+Espíritu
 Eutyches
 famille
 fangzun
@@ -215,6 +222,7 @@ Gumuri
 gunibri
 gwra
 Habb
+Habbān
 HabbÄ�n
 Hacha
 handscroll
@@ -245,6 +253,7 @@ Huqqa
 hurbeit
 Hygieia
 IBILLYRAW
+icudtl
 Idut
 imouthes
 imsety
@@ -260,12 +269,15 @@ IOURA
 Isarda
 Isfandiyar
 ishÅ�
+ishō
 Itet
+Itza
 Ivwyqtw
 IYKL
 Jabal
 jackwood
 Jahan
+Jahān
 Jali
 Jambavat
 Jambiya
@@ -285,13 +297,16 @@ Kaemamun
 kagami
 Kaipunesut
 Kalpasutra
+Kamānja
 KamÄ�nja
+Kamsa’s
 Kamsaâ
 Kamsaâ€™s
 Kangxi
 kantharos
 Karaikkal
 Kard
+Karnā
 KarnÄ�
 Kary
 Kayotsarga
@@ -314,6 +329,7 @@ Kinnari
 Kinnaris
 Kubera
 Kukulc
+Kukulcán
 Kumaragupta
 Kumbhakarna
 Kundala
@@ -338,6 +354,8 @@ lliclla
 Lokapala
 Lokeshvara
 longquan
+lpfn
+lpsz
 Lrhp
 LTRBR
 LTWH
@@ -347,11 +365,14 @@ Luvj
 Lyuh
 mÃ¢chÃ©
 Maatkare
+mâché
+Machu
 Macuilxochitl
 Mahabodhi
 Mahadevi
 Mahal
 Maharana
+Māhatī
 Mahisha
 Mainique
 Majnun
@@ -377,13 +398,14 @@ Menkaure
 Mentuhotep
 mentuhotep\'s
 Mentuwoser
-Mery\'s
+Mery
 Merykhufu
 Metate
 milku
 millefiori
 Minbar
 Mindjedef
+miniaturizable
 Minjie
 mitanni
 Mithuna
@@ -403,6 +425,7 @@ Multistoried
 Mumtaz
 Mutirdis
 Muzaffar
+Mycc
 Nabataeans
 Nabataens
 Nagaraja
@@ -410,6 +433,7 @@ Nagini
 Nagphani
 Nala
 Naqq
+Naqqāra
 Naqqareh
 NaqqÄ�ra
 Narasimha
@@ -473,6 +497,7 @@ Petosiris
 Pfjj
 Philadelphos
 phyllite
+Picchu
 Pichhwai
 plrww
 Pluriarc
@@ -529,6 +554,8 @@ Saif
 Sambandar
 sancai
 Sangram
+śankh
+Śankh
 saqqara
 Sarada
 Sarana
@@ -539,6 +566,7 @@ Savioress
 Sayf
 Scaraboid
 SCIVT
+sconsign
 Seankhkare
 sebek
 seker
@@ -601,6 +629,7 @@ Takieh
 talatat
 Talwar
 Tanpura
+Taūs
 Taweret
 Tayr
 Tecomate
@@ -631,10 +660,12 @@ Tujue
 tulum
 Tumi
 tunjo
+Túpac
 Tupu
 Turani
 turbinella
 Turh
+Turhā
 TurhÄ�
 Tutankhamun
 Tutankhamun\'s
@@ -668,6 +699,7 @@ VFRTX
 Vgjb
 Vilaval
 Vilcabamba
+Vīṇa
 Vishvamitra
 Vishvarupa
 Vnesg
@@ -697,6 +729,7 @@ Yazdegird
 Yazdigird
 Yeseva
 Yucat
+Yucatán
 Yupanqui
 Yusuf
 Yyxdcyr
@@ -712,3 +745,4 @@ ziziphus
 ZMQPW
 ZRLX
 Zysw
+वीणा

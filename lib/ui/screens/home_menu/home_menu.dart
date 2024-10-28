@@ -72,7 +72,7 @@ class _HomeMenuState extends State<HomeMenu> {
                       .fade(duration: $styles.times.fast)
                       .scale(begin: Offset(.8, .8), curve: Curves.easeOut),
                   Gap($styles.insets.lg),
-                  _buildBottomBtns(context),
+                  _buildBottomButtons(context),
                   //Spacer(),
                   Gap($styles.insets.md),
                 ],
@@ -122,7 +122,7 @@ class _HomeMenuState extends State<HomeMenu> {
     );
   }
 
-  Widget _buildBottomBtns(BuildContext context) {
+  Widget _buildBottomButtons(BuildContext context) {
     return ValueListenableBuilder(
         valueListenable: settingsLogic.currentLocale,
         builder: (_, __, ___) {
