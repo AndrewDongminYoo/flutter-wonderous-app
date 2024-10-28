@@ -1,56 +1,56 @@
 # Wonderous
 
 <p align="center">
-<img width="215" src="https://user-images.githubusercontent.com/736973/187334196-b79e48b2-dbb8-4ea7-8aac-04dbc7e5159f.png#gh-dark-mode-only">
-<img width="215" src="https://user-images.githubusercontent.com/736973/187334195-9821c031-a566-4f8e-b4e3-3158f733c6e5.png#gh-light-mode-only">
+<img width="215" alt="gskinner" src="https://user-images.githubusercontent.com/736973/187334196-b79e48b2-dbb8-4ea7-8aac-04dbc7e5159f.png#gh-dark-mode-only">
+<img width="215" alt="gskinner" src="https://user-images.githubusercontent.com/736973/187334195-9821c031-a566-4f8e-b4e3-3158f733c6e5.png#gh-light-mode-only">
 </p>
 <p align="center">
  <img width="800" alt="wonderous-banner-800w" src="https://user-images.githubusercontent.com/736973/187334170-d05271e9-d016-4498-8065-662c6f1124fa.png">
 </p>
 
-Navigate the intersection of history, art, and culture. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
+역사, 예술, 문화의 교차점을 탐험해 보세요. 원더러스는 세계에서 가장 유명한 건축물에 대한 정보를 발견하면서 교육과 즐거움을 선사합니다.
 
-Built by [gskinner](https://gskinner.com/) in partnership with the Flutter team, Wonderous deliberately pushes visual fidelity, effects and transitions to showcase what Flutter is truly capable of on modern mobile hardware.
+[gskinner](https://gskinner.com/)가 Flutter 팀과 협력하여 개발한 원더러스는 시각적 충실도, 효과 및 전환을 의도적으로 강화하여 최신 모바일 하드웨어에서 Flutter가 진정으로 무엇을 할 수 있는지 보여줍니다.
 
-In addition to forking and reviewing the [MIT licensed](LICENSE) code available here, you can check out more information on the [Wonderous Showcase Website](https://wonderous.app).
+여기에서 제공되는 [MIT 라이선스](LICENSE)의 코드를 포크하고 검토할 수 있을 뿐만 아니라 [원더러스 쇼케이스 웹사이트](https://wonderous.app)에서 자세한 정보를 확인할 수 있습니다.
 
-# App Downloads
+## 앱 다운로드
 
-To try the app you can download it from your favorite app store:
+앱을 사용해 보려면 즐겨 찾는 앱 스토어에서 다운로드할 수 있습니다:
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders)
-- [Apple App Store](https://apps.apple.com/us/app/wonderous/id1612491897)
+- [구글플레이](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders)
+- [앱스토어](https://apps.apple.com/us/app/wonderous/id1612491897)
 
-Or you can try it on the web at https://wonderous.app/web/
+또는 [웹](https://wonderous.app/web/)에서 사용해 볼 수 있습니다.
 
-# Installation
+## 설치
 
-If you're new to Flutter the first thing you'll need is to follow the [setup instructions](https://flutter.dev/docs/get-started/install).
+Flutter를 처음 사용하는 경우 가장 먼저 해야 할 일은 [설치 안내](https://flutter.dev/docs/get-started/install)를 따르는 것입니다.
 
-Once Flutter is setup, you can use the latest `stable` channel:
+Flutter 설치가 완료되면 최신 `stable` 채널을 사용할 수 있습니다:
 
 - `flutter channel stable`
 - `flutter upgrade`
 
-Once on `stable` you're ready to run the app on your local device or simulator:
+`stable` 상태가 되면 로컬 기기 또는 시뮬레이터에서 앱을 실행할 준비가 된 것입니다:
 
 - `flutter run -d ios`
 - `flutter run -d android`
 
 ### WASM
 
-[Wonderous](https://wonderous.app/web/) is deployed using the Web Assembly target for Flutter Web (WASM). To test WASM locally, switch to the `/feature/wasm` branch and follow the instructions here: https://docs.flutter.dev/platform-integration/web/wasm#try-it-out
+[Wonderous](https://wonderous.app/web/)는 Flutter Web용 웹 어셈블리 타겟(WASM)을 사용하여 배포됩니다. 로컬에서 WASM을 테스트하려면 `/feature/wasm` 브랜치로 전환하고 [여기](https://docs.flutter.dev/platform-integration/web/wasm#try-it-out)의 지침을 따르세요.
 
-### Impeller Rendering
+### 임펠러 렌더링
 
-This app uses the new [Impeller Runtime](https://docs.flutter.dev/perf/impeller) by default on iOS.
+이 앱은 iOS에서 기본적으로 새로운 [임펠러 런타임](https://docs.flutter.dev/perf/impeller)을 사용합니다.
 
-# About gskinner
+## gskinner 소개
 
-We build innovative digital experiences for smart clients, and we love how Flutter unleashes our creativity when building multi-platform apps. Don't hesitate to [stop by our site](https://gskinner.com/) to learn more about what we do, or check out other [innovative Flutter projects](https://flutter.gskinner.com) we've built. We'd love to hear from you!
+우리는 스마트한 고객을 위한 혁신적인 디지털 경험을 구축하며, 멀티 플랫폼 앱을 개발할 때 Flutter를 통해 창의력을 발휘하는 방법을 좋아합니다. [저희 사이트](https://gskinner.com/)를 방문하셔서 저희가 하는 일에 대해 자세히 알아보시거나 저희가 구축한 다른 [혁신적인 Flutter 프로젝트](https://flutter.gskinner.com)를 확인해 보시기 바랍니다. 여러분의 의견을 듣고 싶습니다!
 
-# License
+## 라이선스
 
-This application is released under the [MIT license](LICENSE). You can use the code for any purpose, including commercial projects.
+이 애플리케이션은 [MIT 라이선스](LICENSE)에 따라 출시됩니다. 상업용 프로젝트를 포함하여 어떤 용도로든 코드를 사용할 수 있습니다.
 
 [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
