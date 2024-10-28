@@ -14,7 +14,7 @@ struct WonderousWidgetView : View {
         let iconImage = FlutterImages.icon;
         let title = entry.title.isEmpty ? "Wonderous" : entry.title;
         let subTitle = entry.subTitle.isEmpty ? "Search for hidden artifacts" : entry.subTitle;
-        
+
         let content = VStack{
             // Top row with optional Title and Icon
             HStack {
@@ -31,9 +31,9 @@ struct WonderousWidgetView : View {
                         .frame(height: 24)
                 }
             }
-            
+
             Spacer();
-            
+
             // Bottom hz row with title, desc and progress gauge
             HStack {
                 if(showTitleAndDesc) {
@@ -51,12 +51,12 @@ struct WonderousWidgetView : View {
                     ProgressView(value: progressPct)
                         .progressViewStyle(GaugeProgressStyle())
                         .frame(width: 48, height: 48)
-                    
+
                     Text("\(Int((progressPct * 100).rounded()))%").font(.system(size: 13)).foregroundColor(.white)
                 }
             }
         }
-        
+
         // Stack content on top of the background image and a gradient
         return ZStack{
             BgImage(entry: entry).opacity(0.8)
@@ -68,9 +68,9 @@ struct WonderousWidgetView : View {
         }
         // Ios requires that widgets have a background color
         .widgetBackground(Color.darkGrey)
-        // Deeplink into collections view when tapped
+        // DeepLink into collections view when tapped
         .widgetURL(URL(string: "wonderous:///home/collection"))
-        
+
     }
 }
 
