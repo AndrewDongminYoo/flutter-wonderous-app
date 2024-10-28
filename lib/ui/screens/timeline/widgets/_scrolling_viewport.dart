@@ -70,6 +70,7 @@ class _ScalingViewportState extends State<_ScrollingViewport> {
 
           // Dashed line with a year that changes as we scroll
           IgnorePointer(
+            // ignore: deprecated_member_use
             ignoringSemantics: false,
             child: AnimatedBuilder(
               animation: controller.scroller,

@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/foundation.dart';
 import 'package:pointer_interceptor/pointer_interceptor.dart';
 import 'package:wonders/common_libs.dart';

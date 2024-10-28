@@ -27,6 +27,7 @@ class _BottomTextContent extends StatelessWidget {
               Column(
                 children: [
                   IgnorePointer(
+                    // ignore: deprecated_member_use
                     ignoringSemantics: false,
                     child: Semantics(
                       button: true,

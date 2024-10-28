@@ -55,6 +55,7 @@ class _EventMarkersState extends State<_EventMarkers> {
   @override
   Widget build(BuildContext context) {
     return IgnorePointer(
+      // ignore: deprecated_member_use
       ignoringSemantics: false,
       child: LayoutBuilder(builder: (_, constraints) {
         /// Figure out which event is "selected"

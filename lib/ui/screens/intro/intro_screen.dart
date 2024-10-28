@@ -113,6 +113,7 @@ class _IntroScreenState extends State<IntroScreen> {
                   ),
 
                   IgnorePointer(
+                    // ignore: deprecated_member_use
                     ignoringSemantics: false,
                     child: Column(children: [
                       Spacer(),
