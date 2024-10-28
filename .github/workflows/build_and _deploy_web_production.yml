@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
 env:
-  BASE_HREF: "web"
-  REMOTE_DIR: "wonderous.app"
+  BASE_HREF: web
+  REMOTE_DIR: wonderous.app
 jobs:
   build:
     uses: ./.github/workflows/build_web.yml
